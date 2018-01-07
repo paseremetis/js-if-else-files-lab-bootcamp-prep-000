@@ -1,2 +1,2 @@
 console.log(name)
-var index
+var index = require 
