@@ -1,6 +1,6 @@
 var name = "Joe"
 if(name==="Susan") {
-  
+  console.log
 }
 var height = "74"
 
