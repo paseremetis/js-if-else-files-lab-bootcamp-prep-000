@@ -1,5 +1,5 @@
 var name = "Joe"
-if
+if(name==="Susan")
 var height = "74"
 
 
